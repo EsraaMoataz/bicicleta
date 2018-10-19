@@ -10,3 +10,7 @@ objects:
 2-the man rides a bicycle consists of ellipses (body,arms,legs,thighs) and circle for head.
 
 3-ball is a circle which scalled.
+
+Output:
+
+https://youtu.be/JgPqB8lVvg0
